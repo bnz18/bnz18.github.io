@@ -3,7 +3,7 @@ title: "[PythonAPI] 파이썬 API 구축 시작"
 excerpt: "파이썬 API구축 공부를 정리하기 위한 글 "
 
 categories:
-  - python
+  - Python
 tags:
   - [Python, API]
 
