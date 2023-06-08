@@ -182,4 +182,4 @@ compress_html:
   # ignore:
   #   envs: all
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.5.2
