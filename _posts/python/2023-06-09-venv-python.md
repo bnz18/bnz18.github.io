@@ -55,4 +55,6 @@ async def root():
 
 ```
 
-넣고 실행 끝.
+넣고 
+
+uvicorn main:app 실행 끝.
